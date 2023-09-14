@@ -1,0 +1,8 @@
+.env
+node_modules
+
+I have tried to add the following to my .gitignore file:
+```
+
+
+
